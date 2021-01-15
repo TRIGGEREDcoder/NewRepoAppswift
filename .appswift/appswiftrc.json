@@ -1,0 +1,16 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "shouldCreateDatabaseSchema": true,
+        "scmType": "git",
+        "scmUserName": "TRIGGEREDcoder",
+        "scmPwd": "575cb7aea6e713a813e9354891d7~~cd43deb5fdacd9fef307c69987507f9f",
+        "scmUrl": "https://github.com/TRIGGEREDcoder/NewRepoAppswift.git",
+        "dbUrl": "aut-nl-devtest-postgresql01.cgautpt.com",
+        "dbUserName": "appswift_admin@aut-nl-devtest-postgresql01",
+        "dbPassword": "6a6e86379f668601ff25644189~~201037d9eb82251066b2d3d6f3f2273b",
+        "dbName": "dev_appswift",
+        "dbPort": "5432"
+    }
+}
